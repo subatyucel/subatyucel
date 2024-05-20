@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/subatyucel](https://stackoverflow.com/users/24329609/subatyucel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subatyucel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24329609/subatyucel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subatyucel" height="30" width="40" /></a>
 <a href="https://instagram.com/subat.yucel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subatyucel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucknbuqkylr1r3nqs5dxcofg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucknbuqkylr1r3nqs5dxcofg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oxhvbcuc31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oxhvbcuc31" height="30" width="40" /></a>
