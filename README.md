@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJS<br>💬 Ask me anything about JavaScript<br>
+🌱 I’m currently learning TypeScript<br>💬 Ask me anything about JavaScript<br>
 
 
 ## 🌐 Contact:
