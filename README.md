@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🌱 I’m currently learning TypeScript<br>💬 Ask me anything about JavaScript<br>
 
 
