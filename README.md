@@ -21,11 +21,8 @@
   <a href="https://mail.google.com/mail/?view=cm&to=subat.yucel1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://subat-workspace.slack.com/team/U099NM1JJMT" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
   <a href="https://medium.com/@subat-yucel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://cdn-1.webcatalog.io/catalog/medium/medium-icon-filled-256.png?v=1751851531426" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
