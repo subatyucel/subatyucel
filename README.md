@@ -19,11 +19,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=subat.yucel1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://medium.com/@subat-yucel" target="_blank">
-    <img src="https://cdn-1.webcatalog.io/catalog/medium/medium-icon-filled-256.png?v=1751851531426" width="52" height="40" alt="medium logo"  />
-  </a>
+
 </div>
 
 ###
