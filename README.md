@@ -4,7 +4,7 @@
 ###
 
 <h2 align="left">About Me</h2>
-<a text-align="center" href="https://subatyucel.github.io/portfolio/">Personal Website</a>
+<a targer="_blank" href="https://subatyucel.github.io/portfolio/">Personal Website</a>
 
 ###
 
